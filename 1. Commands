@@ -23,8 +23,8 @@ vi file.tx -- edit file
 Save and Exit -- ESC:wq
 Dont save and Exit -- ESC:q!
 
-cat
+cat 
 
 mv
 
-grep
+grep - to find a specific word
